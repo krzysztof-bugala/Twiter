@@ -65,7 +65,7 @@ The above command will build and run application.
 
 The web API may be tested on browser by using following address
 
-### http://localhost:8080/api/v1/twiter/users/1/user
+### http://localhost:8080/api/v1/twiter/users/1
 
  
 
