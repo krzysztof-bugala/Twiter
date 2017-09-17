@@ -89,7 +89,9 @@ Database
 
 Database console http://localhost:8080/h2
 
-create.sql - this sql script create the default database configuration
+JDBC URL - jdbc:h2:mem:twiter
+
+create.sql - this sql script creates the default database configuration
 
  
 
