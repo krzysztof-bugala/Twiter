@@ -84,6 +84,15 @@ There are four users which have userId for use in web API.
 
  
 
+Database
+--------
+
+Database console http://localhost:8080/h2
+
+create.sql - this sql script create the default database configuration
+
+ 
+
 Twiter web API
 --------------
 
